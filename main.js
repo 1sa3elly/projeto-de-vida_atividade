@@ -58,4 +58,4 @@ if (tempoFinal > 0){
 
   }
 
-  comecaCronometro();
+  //comecaCronometro();
